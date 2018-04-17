@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 1
 Creating a new branch is quick and simple.
-edit iss101
+merge edit iss101 and dev
